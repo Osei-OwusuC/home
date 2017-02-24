@@ -1,0 +1,44 @@
+.header
+{
+	margin-top: -200px;
+	font-size: 100pt;
+	height: 1000px;    
+	background-image: url(soccerdark.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+    line-height: 5ex;
+} 
+ body
+{
+  padding: 0px;
+  margin: 0px;
+  background: #e0ffe0;
+}
+ h1
+ {
+	color: black;
+	text-align: center;;
+ }
+ ul
+ {
+	color: black;
+}
+#soccer
+ {
+	color: white;
+	text-align: center;
+	line-height: 396px;
+	margin-bottom: -100px;
+ }
+	 
+h2
+{
+	font-size: 24pt;
+}
+#swag
+{
+	font-size: 10pt;
+	margin-top: -48ex;
+}
